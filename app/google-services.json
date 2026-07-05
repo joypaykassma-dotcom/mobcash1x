@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38168463566",
+    "project_id": "mobcash-27f38",
+    "storage_bucket": "mobcash-27f38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38168463566:android:64c407033eb8102264289f",
+        "android_client_info": {
+          "package_name": "com.mobcash1x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ME09Ckt_ggooJXp_h8IT7QJpNuUqzIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

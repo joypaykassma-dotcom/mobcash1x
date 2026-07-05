@@ -1,0 +1,6 @@
+{
+  "name": "My Wallet",
+  "description": "A digital wallet app with login, signup, balances, deposits, and withdrawals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
